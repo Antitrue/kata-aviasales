@@ -1,1 +1,1 @@
-# Kata aviasales https://kata-aviasales-nine.vercel.app/
+# https://kata-aviasales-nine.vercel.app/
