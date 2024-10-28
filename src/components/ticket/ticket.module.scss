@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:global {
+  .ant-card .ant-card-body {
+    padding: 5px;
+  }
+}
+
+.Ticket {
+  width: 100%;
+  margin-bottom: 16px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  font-family: 'Open Sans';
+}
+
+.price {
+  margin: 0;
+  color: #2196F3;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.logo {
+  max-width: 110px;
+  max-height: 36px;
+}
+
+.body {
+  padding: 5px;
+}
+
+.segment {
+  margin-bottom: 12px;
+}
+
+.column {
+  color: #A0B0B9;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Open Sans';
+  text-transform: uppercase;
+}
+
+.bold {
+  color: black;
+  font-family: 'Open Sans';
+  font-weight: 600;
+}
